@@ -1,0 +1,20 @@
+
+Vous hésitez entre deux formations pour votre reconversion professionnelle.
+L’une est plus courte et pratique, l’autre plus longue et diplômante.
+Vous devez décider laquelle est la plus adaptée à votre situation.
+
+Formation A (intensive)
+----------------------------
+Durée : 4 mois
+Certification : Titre RNCP niveau 5
+Mode : 100% présentiel
+Coût : 2 500 €
+Insertion pro (estimée) : rapide, pratique métier
+
+Formation B (longue diplômante)
+----------------------------
+Durée : 12 mois
+Certification : Diplôme universitaire niveau licence
+Mode : Mixte présentiel + à distance
+Coût : 6 000 €
+Insertion pro (estimée) : plus académique, large débouché
