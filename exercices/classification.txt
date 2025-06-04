@@ -1,0 +1,38 @@
+
+Vous travaillez dans une entreprise de e-commerce. Le service client reçoit des centaines de messages chaque jour. Vous utilisez un modèle de langage pour classer automatiquement chaque message dans une catégorie, afin d’accélérer le traitement.
+
+⸻
+
+Voici trois exemples de classification :
+
+– Message : “Bonjour, je voudrais changer mon mot de passe, je l’ai oublié.”
+Type de demande : Assistance technique
+
+– Message : “Je n’ai toujours pas reçu ma commande alors qu’elle était censée arriver hier.”
+Type de demande : Suivi de livraison
+
+– Message : “Je veux retourner un produit qui ne me convient pas.”
+Type de demande : Retour produit
+
+⸻
+
+Complétez les classifications suivantes :
+
+– Message : “J’ai été prélevé deux fois ce mois-ci, pouvez-vous vérifier ?”
+Type de demande : [à compléter]
+
+– Message : “Le colis est arrivé endommagé, je ne peux pas l’utiliser.”
+Type de demande : [à compléter]
+
+– Message : “Je souhaite modifier mon adresse de livraison pour ma commande actuelle.”
+Type de demande : [à compléter]
+
+– Message : “Je veux savoir si ce produit sera bientôt disponible en taille M.”
+Type de demande : [à compléter]
+
+– Message : “Impossible de me connecter à mon compte depuis ce matin.”
+Type de demande : [à compléter]
+
+⸻
+
+Rédigez le prompt complet que vous soumettriez à un modèle de langage pour lui faire classer automatiquement un grand volume de messages de ce type.
